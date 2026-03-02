@@ -16,7 +16,7 @@ Esto requiere de un tipo de solución que ayude a identificar dentro de todo el 
 - Implementación de Machine Learning no supervisado para entender mejor el tipo de leads que se están capturando y dar recomendaciones de consultoría.
 
 ## Resultados
-- Incremento drástico en las tasas de conversión.
+- El modelo permitió identificar el 30% de leads con probabilidad de conversión superior al 70%, permitiendo priorización estratégica.
 - Priorización de leads de alta calidad.
 - Optimización del uso de recursos de marketing.
 - Automatización de todo el proceso listo para producción.
